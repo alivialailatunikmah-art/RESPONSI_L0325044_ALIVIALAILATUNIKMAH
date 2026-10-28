@@ -1,0 +1,11 @@
+===================================================
+          MANIFEST PENGIRIMAN LOGISTIK 3T          
+===================================================
+Kode         | Nama Barang        | Kategori     | Berat (kg)
+---------------------------------------------------
+EDX-001      | Mobil Pickup       | Elektronik   | 60.00     
+---------------------------------------------------
+Total Jenis Barang    : 1
+Total Akumulasi Berat : 60.0 kg
+Rekomendasi Armada    : Truk Ekspedisi
+===================================================
